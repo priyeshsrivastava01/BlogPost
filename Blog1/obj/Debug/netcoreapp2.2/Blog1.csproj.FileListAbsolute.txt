@@ -1,0 +1,16 @@
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\Blog1.deps.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\Blog1.runtimeconfig.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\Blog1.runtimeconfig.dev.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\Blog1.dll
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\Blog1.pdb
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.RazorAssemblyInfo.cache
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.RazorAssemblyInfo.cs
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.AssemblyInfoInputs.cache
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.AssemblyInfo.cs
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.RazorTargetAssemblyInfo.cache
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.dll
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.pdb
+C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.csprojAssemblyReference.cache
