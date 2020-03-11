@@ -13,4 +13,12 @@ C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.AssemblyI
 C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.RazorTargetAssemblyInfo.cache
 C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.dll
 C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.pdb
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\angular.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\e2e\tsconfig.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\package-lock.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\package.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\tsconfig.app.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\tsconfig.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\tsconfig.spec.json
+C:\Users\int172\source\repos\Blog1\Blog1\bin\Debug\netcoreapp2.2\blog\tslint.json
 C:\Users\int172\source\repos\Blog1\Blog1\obj\Debug\netcoreapp2.2\Blog1.csprojAssemblyReference.cache
